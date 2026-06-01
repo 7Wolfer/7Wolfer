@@ -11,7 +11,7 @@
 
 ## About me
 
-Software Engineering student who cares about building things that actually work. If there's a gap between what exists and what *should* exist, that's where I want to be.
+Software Engineer who cares about building things that actually work. If there's a gap between what exists and what *should* exist, that's where I want to be.
 
 Outside of code, I spend time reading about neuroscience. I'm always looking for opportunities to grow and collaborate.
 
