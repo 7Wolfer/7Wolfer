@@ -45,8 +45,10 @@ Outside of code, I spend time reading about neuroscience. I'm always looking for
 
 <div align="center">
 <sub>If you read this far, you probably need coffee too. ☕</sub>
-</div>
-<div>
-  And if you want to work on something together, reach out on LinkedIn.
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-arian-medina-8541852b3/)
+<br/><br/>
+And if you want to work on something together, reach out on LinkedIn.
+<br/><br/>
+<a href="https://www.linkedin.com/in/dilan-arian-medina-8541852b3/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 </div>
